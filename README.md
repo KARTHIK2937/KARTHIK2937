@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :via gmail-karthik2937@gmail.com
+- 📫 How to reach me @ karthik2937@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
