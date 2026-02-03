@@ -6,7 +6,7 @@
 
 | Name | Role |
 |------|------|
-| John | Dev  |`
+| John | Dev  |
 | John | Dev  |
 | John | Dev  |
 <!---
